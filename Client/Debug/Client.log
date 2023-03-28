@@ -1,0 +1,15 @@
+﻿  systemlogic.cpp
+E:\综合实验1\problem3\Client\systemlogic.cpp(285,6): warning C4101: “order”: 未引用的局部变量
+E:\综合实验1\problem3\Client\systemlogic.cpp(316,6): warning C4101: “order”: 未引用的局部变量
+E:\综合实验1\problem3\Client\systemlogic.cpp(376,6): warning C4101: “choose”: 未引用的局部变量
+E:\综合实验1\problem3\Client\systemlogic.cpp(446,6): warning C4101: “choose”: 未引用的局部变量
+E:\综合实验1\problem3\Client\systemlogic.cpp(776,6): warning C4101: “order”: 未引用的局部变量
+E:\综合实验1\problem3\Client\systemlogic.cpp(850,6): warning C4101: “choose”: 未引用的局部变量
+E:\综合实验1\problem3\Client\systemlogic.cpp(909,6): warning C4101: “order1”: 未引用的局部变量
+E:\综合实验1\problem3\Client\systemlogic.cpp(932,11): warning C4101: “judge”: 未引用的局部变量
+E:\综合实验1\problem3\Client\systemlogic.cpp(931,6): warning C4101: “order1”: 未引用的局部变量
+E:\综合实验1\problem3\Client\systemlogic.cpp(960,6): warning C4101: “order1”: 未引用的局部变量
+E:\综合实验1\problem3\Client\systemlogic.cpp(988,6): warning C4101: “order1”: 未引用的局部变量
+E:\综合实验1\problem3\Client\systemlogic.cpp(1016,6): warning C4101: “order1”: 未引用的局部变量
+E:\综合实验1\problem3\Client\systemlogic.cpp(1050,6): warning C4101: “order1”: 未引用的局部变量
+  Client.vcxproj -> E:\综合实验1\problem3\Debug\Client.exe
